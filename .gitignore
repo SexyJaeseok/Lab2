@@ -1,0 +1,17 @@
+dir_func/dir_func
+ls_R/my_ls_R
+typing/typing
+process/fork_exec
+process/signal_test
+ipc/pipe_basic
+ipc/fifo_writer
+ipc/fifo_reader
+pipe_chat/pipe_chat
+mq_chat/mq_chat
+shm_copy/shm_copy
+matrix_rust/target
+myfifo
+a2b
+b2a
+team_shell/myshell
+team_shell/
