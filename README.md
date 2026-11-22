@@ -15,7 +15,9 @@
 - shm_copy    : POSIX 공유 메모리와 mmap 을 이용한 파일 복사 (10)
 - dbus        : DBUS 알림 서버/클라이언트 (11)
 - captures    : 실행 결과 화면
-- team_shell  : 팀과제 쉘 프로그램 (12번, 팀 3명). 쉘 뼈대와 ls, pwd, cd, mkdir 구현. 자세한 내용은 team_shell/README.md
+
+팀과제 쉘 프로그램 (12번, 팀 3명)은 이 저장소에 포함되어 있지 않고 별도 저장소에서 진행한다.
+https://github.com/SexyJaeseok/mini-shell-team2_1
 
 ## 빌드
 
